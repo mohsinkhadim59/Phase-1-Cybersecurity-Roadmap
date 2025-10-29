@@ -4,8 +4,8 @@
   "obsidian-kanban",
   "excalibrain",
   "dataview",
-  "obsidian-excalidraw-plugin",
   "calendar",
   "better-export-pdf",
-  "mermaid-tools"
+  "mermaid-tools",
+  "obsidian-excalidraw-plugin"
 ]

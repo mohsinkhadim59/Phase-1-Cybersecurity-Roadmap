@@ -38,15 +38,13 @@
           {
             "id": "b93ac0dae0bbe7e8",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RoadMap/Daily-Notes/Day-22.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Day-22"
+              "title": "Juggl"
             }
           },
           {
@@ -197,8 +195,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
             }
           },
           {
@@ -207,8 +205,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
             }
           },
           {
@@ -217,8 +215,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -227,8 +225,28 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
+          },
+          {
+            "id": "318ea165820c99d8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "19930e6e792a1587",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ],
@@ -256,6 +274,9 @@
   },
   "active": "b93ac0dae0bbe7e8",
   "lastOpenFiles": [
+    "RoadMap/Cheatsheets/Cheatsheet-Global.md",
+    "Table of Contents.base",
+    "RoadMap/Daily-Notes/Day-22.md",
     "RoadMap/Daily-Notes/Day-1.md",
     "README.md",
     "RoadMap/Phase-1/Week-4.md",
@@ -263,13 +284,11 @@
     "RoadMap/Phase-1/Week-2.md",
     "RoadMap/Phase-1/Week-1.md",
     "RoadMap/Phase-1/Phase-1.md",
-    "Table of Contents.base",
     "2025-10-23.md",
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled.canvas",
     "RoadMap/Daily-Notes/Day-3.md",
-    "RoadMap/Cheatsheets/Cheatsheet-Global.md",
     "RoadMap/Daily-Notes/Day-6.md",
     "RoadMap/Daily-Notes/Day-7.md",
     "RoadMap/Daily-Notes/Day-18.md",
@@ -284,8 +303,6 @@
     "RoadMap/Cheatsheets/Cheatsheet-SSH.md",
     "RoadMap/Cheatsheets/Cheatsheet-Nmap.md",
     "RoadMap/Cheatsheets/Cheatsheet-Linux.md",
-    "Excalidraw/Drawing 2025-09-28 19.28.34.excalidraw.md",
-    "RoadMap/Daily-Notes/Day-10.md",
     "RoadMap/Daily-Notes/img.png",
     "RoadMap/Daily-Notes/ROT13_table_with_example.svg.png",
     "Images/me.jpg",
