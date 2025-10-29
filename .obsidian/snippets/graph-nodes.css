@@ -1,0 +1,20 @@
+/* Phase node */
+.node-label[data-path*="Phase"] {
+  font-size: 20px !important;
+}
+
+/* Week node */
+.node-label[data-path*="Week"] {
+  font-size: 16px !important;
+}
+
+/* Day node */
+.node-label[data-path*="Day"] {
+  font-size: 12px !important;
+}
+
+/* Cheatsheet node */
+.node-label[data-path*="Cheatsheet-Hub"] {
+  font-size: 22px !important;
+  color: yellow !important;
+}

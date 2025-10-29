@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "2b6ebacc32c85012",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd757e791a3d6f0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e14ede87f136f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RoadMap/Cheatsheets/Cheatsheet-Global.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheatsheet-Global"
+            }
+          },
+          {
+            "id": "87d79934d8cc6cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RoadMap/Phase-1/Week-4.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week-4"
+            }
+          },
+          {
+            "id": "b93ac0dae0bbe7e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RoadMap/Daily-Notes/Day-22.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-22"
+            }
+          },
+          {
+            "id": "a8a0f8553c395828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RoadMap/Cheatsheets/Cheatsheet-Global.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheatsheet-Global"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5f0d7607f6fa1bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ecb3df4607a0a29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d1fc3a3b6e57ef2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f6e6397ec946fc1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3215fc93dc9f283f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "f7390f919bb25969",
+    "type": "split",
+    "children": [
+      {
+        "id": "819991110b890480",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14c2ce35e0d715b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c4d844da668e1708",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a35525732f4bba7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e1408ce9b1a9aaa5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ddd27f16939bc297",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "e5037be2932c27b2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "84ec0edc71413bbc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "580d79fb9656ad73",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "b93ac0dae0bbe7e8",
+  "lastOpenFiles": [
+    "RoadMap/Daily-Notes/Day-1.md",
+    "README.md",
+    "RoadMap/Phase-1/Week-4.md",
+    "RoadMap/Phase-1/Week-3.md",
+    "RoadMap/Phase-1/Week-2.md",
+    "RoadMap/Phase-1/Week-1.md",
+    "RoadMap/Phase-1/Phase-1.md",
+    "Table of Contents.base",
+    "2025-10-23.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled.canvas",
+    "RoadMap/Daily-Notes/Day-3.md",
+    "RoadMap/Cheatsheets/Cheatsheet-Global.md",
+    "RoadMap/Daily-Notes/Day-6.md",
+    "RoadMap/Daily-Notes/Day-7.md",
+    "RoadMap/Daily-Notes/Day-18.md",
+    "RoadMap/Daily-Notes/Day-19.md",
+    "RoadMap/Daily-Notes/Day-20.md",
+    "RoadMap/Daily-Notes/Day-4.md",
+    "RoadMap/Daily-Notes/Day-5.md",
+    "RoadMap/Daily-Notes/Day-8.md",
+    "RoadMap/Daily-Notes/Day-9.md",
+    "RoadMap/Cover/Cover.md",
+    "RoadMap/Cheatsheets/Cheatsheet-Tree.md",
+    "RoadMap/Cheatsheets/Cheatsheet-SSH.md",
+    "RoadMap/Cheatsheets/Cheatsheet-Nmap.md",
+    "RoadMap/Cheatsheets/Cheatsheet-Linux.md",
+    "Excalidraw/Drawing 2025-09-28 19.28.34.excalidraw.md",
+    "RoadMap/Daily-Notes/Day-10.md",
+    "RoadMap/Daily-Notes/img.png",
+    "RoadMap/Daily-Notes/ROT13_table_with_example.svg.png",
+    "Images/me.jpg",
+    "Images",
+    "New folder",
+    "me.jpg",
+    "RoadMap/Cover/me.jpg",
+    "RoadMap/Cover/IMG_0828.jpg",
+    "RoadMap/Cover",
+    "RoadMap",
+    "Pasted image 20250817143100.png",
+    "RoadMap/Excalidraw",
+    "Cheatsheets/Cheatsheet-Hub.md.txt",
+    "Cheatsheets/New Text Document.txt"
+  ]
+}
