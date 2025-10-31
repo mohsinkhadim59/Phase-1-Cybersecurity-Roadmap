@@ -12,6 +12,7 @@
 
 ## Reflections
 - What I learned today:
+	- Down below is one of the code that is related to making an `interactive calculator` using `bc` and a function is developed to calculating `area of circle`
 - What needs review:
 
 >[!Warning] This Example is a must to understand various functionalities
