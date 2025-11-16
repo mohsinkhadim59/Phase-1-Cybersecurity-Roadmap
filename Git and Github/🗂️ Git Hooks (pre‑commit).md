@@ -2,6 +2,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [title: Further Reading – Git & GitHub
+tags: [git, github, resources]](#title-further-reading--git--github%0Atags-git-github-resources)
 - [📚 Further Reading](#-further-reading)
 - [🗂️ Git Hooks (pre‑commit)](#-git-hooks-pre%E2%80%91commit)
 

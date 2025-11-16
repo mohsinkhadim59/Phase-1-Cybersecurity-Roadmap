@@ -2,6 +2,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [title: Git Configuration
+tags: [git, config]](#title-git-configuration%0Atags-git-config)
 - [📁 Repository‑Specific `.git/config`](#-repository%E2%80%91specific%C2%A0gitconfig)
 - [🐙 GitHub CLI Configuration](#-github-cli-configuration)
 
