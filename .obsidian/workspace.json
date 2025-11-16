@@ -41,6 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "RoadMap/Phase-1/Phase-1.md",
                 "mode": "preview",
                 "source": false
@@ -110,6 +111,14 @@
               },
               "icon": "lucide-file",
               "title": "Glossary of Git and Github"
+=======
+                "file": "RoadMap/Daily-Notes/Day-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-2"
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -325,6 +334,7 @@
   },
   "active": "ae3ce513ee5d3dd1",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Git and Github/Git and Github Cheatsheet.md",
     "Git and Github/🗂️ Configuration 1️⃣ Global .gitconfig.md",
     "Git and Github/🗂️ Git Hooks (pre‑commit).md",
@@ -339,6 +349,12 @@
     "RoadMap/Phase-1/Week-4.md",
     "RoadMap/Cheatsheets/Cheatsheet-Global.md",
     "RoadMap/Daily-Notes/Day-7.md",
+=======
+    "RoadMap/Phase-1/Phase-1.md",
+    "RoadMap/Cheatsheets/Cheatsheet-Global.md",
+    "RoadMap/Daily-Notes/Day-7.md",
+    "RoadMap/Phase-1/Week-4.md",
+>>>>>>> Stashed changes
     "RoadMap/Daily-Notes/Day-6.md",
     "RoadMap/Daily-Notes/Day-4.md",
     "RoadMap/Daily-Notes/Day-9.md",
